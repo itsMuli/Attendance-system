@@ -1,0 +1,9 @@
+20220921	19:02:08	456ec1ba-cef4-49f6-9ae9-d1c24b66ded2	GET	undefined	/
+20220921	19:02:08	9cbe5891-7c60-4408-b983-33aa6ea2cefc	GET	undefined	/css/style.css
+20220921	19:02:08	73dfec49-b026-45ca-99b3-2833bc38308a	GET	undefined	/favicon.ico
+20220921	19:04:05	d7739338-4b84-40d6-8e58-8fe8cd9860e6	OPTIONS	http://localhost:3000	/register
+20220921	19:04:05	88ba3801-d3b8-4114-8451-29c28b3da6e7	POST	http://localhost:3000	/register
+20220921	19:04:07	0567353c-e23c-4f45-8666-47cca0794352	POST	http://localhost:3000	/register
+20220921	19:04:09	af470506-1989-4f46-bd26-8394bf9511df	POST	http://localhost:3000	/register
+20220921	19:04:19	c818f925-0a48-4ec9-a62a-b49657c2aad8	OPTIONS	http://localhost:3000	/register
+20220921	19:04:19	ded46037-fb74-4d78-ab82-8e97bea789ba	POST	http://localhost:3000	/register
